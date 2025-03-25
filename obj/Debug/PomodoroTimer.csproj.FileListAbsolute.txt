@@ -1,0 +1,10 @@
+D:\02_Hodehod\14 - C# Level 1\Pomodoro Timer\PomodoroTimer\bin\Debug\PomodoroTimer.exe.config
+D:\02_Hodehod\14 - C# Level 1\Pomodoro Timer\PomodoroTimer\bin\Debug\PomodoroTimer.exe
+D:\02_Hodehod\14 - C# Level 1\Pomodoro Timer\PomodoroTimer\bin\Debug\PomodoroTimer.pdb
+D:\02_Hodehod\14 - C# Level 1\Pomodoro Timer\PomodoroTimer\obj\Debug\PomodoroTimer.csproj.AssemblyReference.cache
+D:\02_Hodehod\14 - C# Level 1\Pomodoro Timer\PomodoroTimer\obj\Debug\PomodoroTimer.Properties.Resources.resources
+D:\02_Hodehod\14 - C# Level 1\Pomodoro Timer\PomodoroTimer\obj\Debug\PomodoroTimer.csproj.GenerateResource.cache
+D:\02_Hodehod\14 - C# Level 1\Pomodoro Timer\PomodoroTimer\obj\Debug\PomodoroTimer.csproj.CoreCompileInputs.cache
+D:\02_Hodehod\14 - C# Level 1\Pomodoro Timer\PomodoroTimer\obj\Debug\PomodoroTimer.exe
+D:\02_Hodehod\14 - C# Level 1\Pomodoro Timer\PomodoroTimer\obj\Debug\PomodoroTimer.pdb
+D:\02_Hodehod\14 - C# Level 1\Pomodoro Timer\PomodoroTimer\obj\Debug\PomodoroTimer.FrmMain.resources
